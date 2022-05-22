@@ -1,9 +1,7 @@
-👋 Hi, I’m @alfie1906, a freelance data scientist working primarily on the website Upwork.com
+👋 Hi, I’m @alfie1906, a data scientist working at Square Enix - a video game publisher. As a result, I've worked with data for some cool IPs, such as Final Fantasy, Avengers and Tomb Raider!
 
-🌱 I’m currently learning R and SQL - I code mainly in Python but I definitely still have a lot of room for improvement in that area too!
+🌱 I code in Python & SQL, but I'm currently focussing on upskiling my cloud engineering skills, specifically looking at ML engineering on Google Cloud Platform.
 
-📫 How to reach me - feel free to drop me a message on LinkedIn at https://www.linkedin.com/in/alfie-grace-b285ab161/
+📫 How to reach me - feel free to drop me a message on LinkedIn at https://www.linkedin.com/in/alfie-grace-b285ab161/. I'm always looking for exciting projects I can involve myself in, so let me know if you've got something you think I'd be interested in!
 
-You can also find me on LearnDataSci - an online platform targeted at aspiring and current data scientists - where I write content for the solutions segment of the website @ https://www.learndatasci.com/author/AlfieGrace
-
-The biggest project I'm working on right now is assisting with the ETL process at Fresh Grease, a startup that aims to revolutionize the way people shop for bicycles. Find them @ https://www.freshgrease.com/
+You can also find me on LearnDataSci - an online platform targeted at aspiring and current data scientists - where I've written content for the Python solutions segment of the website @ https://www.learndatasci.com/author/AlfieGrace
